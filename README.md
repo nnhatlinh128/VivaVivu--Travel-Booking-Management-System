@@ -282,7 +282,7 @@ Payment Success
 ## Clone Repository
 
 ```bash
-git clone https://github.com/nnhatlinh128/viva-vivu-travel-booking.git
+git clone https://github.com/nnhatlinh128/VivaVivu--Travel-Booking-Management-System.git
 ```
 
 ---
